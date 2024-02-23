@@ -1,3 +1,3 @@
 # Exercise Tracker
 
-This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
+Just working through this to see if FreeCodeCamp's backend and API courses were worth recommending. Overall, it was solid. I enjoyed myself.
